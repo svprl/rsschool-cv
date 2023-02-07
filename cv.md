@@ -12,5 +12,11 @@ function multiply(a, b) {
 }
 ```
 ## Work experience:
-* User Acqusition manager 
 * CEO assistent
+## Education:
+Belarusian State University of Culture and Arts, Management of advertising and PR in culture, bachelor degree, 2021
+## Languages:
+* Englush __B2__
+* Polish __A2__
+* Belarussian __native__
+* Russian __native__
