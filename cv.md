@@ -1,4 +1,5 @@
 # **Svetlana Prilepo** 
+<img src="./assets/me.png" style="height:100px;"></img>
 ## Contacts: 
 __+48508512493__
 __sibasaj@gmail.com__
